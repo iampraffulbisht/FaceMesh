@@ -1,7 +1,11 @@
 # **Face Mesh Detection with OpenCV and MediaPipe**
 
 
-https://github.com/iampraffulbisht/FaceMesh/assets/114369813/e8f77a4f-971b-470c-ab47-7c490edba646
+
+
+https://github.com/iampraffulbisht/FaceMesh/assets/114369813/3b86afb4-aae9-4a7d-8c02-4fd2a5ca1b4b
+
+
 
 
 This project demonstrates real-time face mesh detection using OpenCV and MediaPipe in Python. The application captures video from a webcam, detects facial landmarks, and overlays a mesh on the detected face.
