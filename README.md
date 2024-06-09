@@ -4,7 +4,11 @@
 
 
 
-https://github.com/iampraffulbisht/FaceMesh/assets/114369813/1f7ff61f-ddb8-4c58-a746-088cebf0edeb
+
+https://github.com/iampraffulbisht/FaceMesh/assets/114369813/ced0bbae-e960-497e-a7b9-14de9d808d1b
+
+
+
 
 
 
